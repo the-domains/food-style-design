@@ -6,9 +6,9 @@ color:
   saturation: 0.3879802825395018
   rhythmicContrast: 0.3479865840636194
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Food Style Design
